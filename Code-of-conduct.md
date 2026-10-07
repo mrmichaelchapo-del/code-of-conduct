@@ -27,4 +27,8 @@ Your account is terminated, and you have 50 days to appeal.
 1. IP ban your account (your entire IP address gets banned from the platform).
 
 2. Permanent ban (if we detect the same state, we can reject, as we have a permit to view users' locations from the browser.)
+
+3. We use our PHP login tracker to verify user age.
+
+4. If we suspect that your account was used by a child, you can visit this template: <https://verify.sprunki.edu/username=YOURNAME#login=php>
 </details>
