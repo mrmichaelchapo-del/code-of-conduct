@@ -16,3 +16,14 @@ We can ban you for 1 day, 3 days, a week, 2 weeks, or 7 weeks. We can also ban y
 
 3. Ban
 Your account is terminated, and you have 50 days to appeal.
+
+## Extras
+
+<details>
+<summary>Psst, pssst...</summary>
+> We might not do these, but we will if you escalate further.
+
+1. IP ban your account (your entire IP address gets banned from the platform).
+
+2. Permanent ban (if we detect the same state, we can reject, as we have a permit to view users' locations from the browser.)
+</details>
