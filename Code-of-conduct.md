@@ -4,7 +4,7 @@
 We pledge to be kind, innovative, and multigenerational to our community. We accept all members of our community, if they know our community or not. We pledge to strive in excellence, kindness, and generosity.
 
 ## About This Code Of Conduct
-this code of conduct was inspired by [Mozilla's Enforcement Ladder](https://developer.mozilla.org).
+this code of conduct was inspired by [Mozilla's Enforcement Ladder](https://github.com/mozilla/inclusion/blob/master/code-of-conduct/enforcement/README.md).
 
 ## Enforcements
 
