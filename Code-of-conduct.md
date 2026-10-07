@@ -21,6 +21,7 @@ Your account is terminated, and you have 50 days to appeal.
 
 <details>
 <summary>Psst, pssst...</summary>
+
 > We might not do these, but we will if you escalate further.
 
 1. IP ban your account (your entire IP address gets banned from the platform).
